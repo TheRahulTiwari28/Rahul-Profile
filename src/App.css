@@ -154,7 +154,7 @@ h2 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 15px 10px;
+  padding: 15px 84px;
   background: var(--white);
   box-shadow: 0px 5.333px 80px 0 rgba(0, 0, 0, 0.1);
   position: fixed;
@@ -702,6 +702,9 @@ input[type="checkbox"] {
   .nav__hamburger {
     display: flex;
     z-index: 200;
+  }
+  .navbar{
+    padding: 15px 20px;
   }
   .navbar--items {
     display: flex;
