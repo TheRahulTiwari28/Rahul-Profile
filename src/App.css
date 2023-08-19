@@ -638,7 +638,7 @@ input[type="checkbox"] {
   .contact--section,
   .footer--container {
     gap: 20px;
-    padding: 100px 10px 70px 10px;
+    padding: 100px 20px 70px 20px;
 
   }
   .about--section {
