@@ -231,6 +231,7 @@ h2 {
 }
 .hero--section--content p{
   text-align: left;
+  line-height: 32px;
 }
 .hero--section--content--box > button {
   margin-top: 21.333px;
