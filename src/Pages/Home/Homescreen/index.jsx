@@ -3,7 +3,8 @@ import ContactMe from "../ContactMe";
 import Footer from "../Footer";
 import HeroSection from "../HeroSection";
 import MyPortfolio from "../MyPortfolio";
-import MySkills from "../MySkills";
+import Expertise from "../Expertise";
+import Skills from "../Skills";
 // import Testimonial from "../Testimonials";
 
 export default function Home() {
@@ -11,9 +12,9 @@ export default function Home() {
     <>
       <HeroSection />
       <AboutMe />
-      <MySkills />
+      <Skills/>
+      <Expertise />
       <MyPortfolio />
-      {/* <Testimonial /> */}
       <ContactMe />
       <Footer />
     </>

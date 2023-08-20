@@ -1,5 +1,5 @@
 {
-  "skills": [
+  "expertise": [
     {
       "id": "1",
       "src": "./img/product-chain-1.png",
@@ -17,6 +17,69 @@
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
       "description": "I'm a UI/UX designer who helps websites achieve a unique look by creating user interfaces and experiences that are both visually appealing and functional"
+    }
+  ],
+  "languages": [
+    {
+      "id": "1",
+      "src": "./img/skills/html.png",
+      "title": "Html"
+    },
+    {
+      "id": "2",
+      "src": "./img/skills/css.png",
+      "title": "CSS"
+    },
+    {
+      "id": "3",
+      "src": "./img/skills/javascript.png",
+      "title": "Javascripts"
+    }
+  ],
+  "framework": [
+    {
+      "id": "1",
+      "src": "./img/skills/react.png",
+      "title": "ReactJS"
+    },
+    {
+      "id": "2",
+      "src": "./img/skills/sass.png",
+      "title": "Sass"
+    }
+  ],
+  "libraries": [
+    {
+      "id": "1",
+      "src": "./img/skills/mui.svg",
+      "title": "MUI"
+    },
+    {
+      "id": "2",
+      "src": "./img/skills/bootstrap.png",
+      "title": "BootStrap"
+    },
+    {
+      "id": "3",
+      "src": "./img/skills/styled.png",
+      "title": "Styled Components"
+    }
+  ],
+  "tools": [
+    {
+      "id": "1",
+      "src": "./img/skills/git.png",
+      "title": "Git"
+    },
+    {
+      "id": "2",
+      "src": "./img/skills/vscode.png",
+      "title": "VS Code"
+    },
+    {
+      "id": "3",
+      "src": "./img/skills/ps.png",
+      "title": "Photoshop"
     }
   ],
   "portfolio": [
