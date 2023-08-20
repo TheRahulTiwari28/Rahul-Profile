@@ -6,8 +6,8 @@ const Skills = () => {
     <>
     <section className="skills--section" id="mySkills">
       <div className="portfolio--container">
-        <p className="section--title">Languages & Tools that all I know!</p>
         <h2 className="section--heading">My Skills</h2>
+        <p className="section--title">Languages & Tools that all I know!</p>
       </div>
       <div className="skills--section--container">
         <div className='skills--section-content'>

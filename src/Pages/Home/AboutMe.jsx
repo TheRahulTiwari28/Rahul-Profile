@@ -12,7 +12,7 @@ export default function AboutMe() {
           {/* I am a Front-End developer from India. I create professional websites. I love art and always try to  */}
           {/* show unique views to the audience through my design. */}
           Hi there! I'm Rahul Tiwari, a self-taught front-end web developer from India with a strong 
-          background in HTML, CSS, and JavaScript. I'm also proficient in a variety of front-end frameworks, 
+          background in HTML, CSS, and JavaScript. I'm also skilled in a variety of front-end frameworks, 
           such as React. I'm passionate about building beautiful, user-friendly interfaces that provide real 
           value and interest to the end user. I've completed several creative and user-friendly front-end 
           projects, and I'm always looking for new challenges.I'm currently working as a front-end developer 
