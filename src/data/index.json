@@ -22,24 +22,129 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
+      "src": "./img/covide19.png",
+      "title": "Covide19 Tracker",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "link": "https://covide19-tracker.vercel.app/"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
+      "src": "./img/futuretech.png",
+      "title": "Future Tech",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "link": "https://the-future-tech.vercel.app/"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
+      "src": "./img/acehaversack.png",
+      "title": "AceHaverS@ack",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://acehaversack.netlify.app/"
+    },
+    {
+      "id": "4",
+      "src": "./img/sack.png",
       "title": "Easy Rentn",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "link": "https://sack.netlify.app/"
+    },
+    {
+      "id": "5",
+      "src": "./img/codepen.png",
+      "title": "Codepen Clone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://react-clone-codepen.netlify.app/"
+    },
+    {
+      "id": "6",
+      "src": "./img/movieflix.png",
+      "title": "Movieflick",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://movieflick.netlify.app/"
+    },
+    {
+      "id": "7",
+      "src": "./img/shardevision.png",
+      "title": "SharedVision",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://sharedvision.netlify.app/"
+    },
+    {
+      "id": "8",
+      "src": "./img/skillearn.png",
+      "title": "Skill Learn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://skill-learn.netlify.app/"
+    },
+    {
+      "id": "9",
+      "src": "./img/languagehub.png",
+      "title": "LanguageLab",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://languagelab.netlify.app/"
+    },
+    {
+      "id": "10",
+      "src": "./img/eduford.png",
+      "title": "EduFordCollege",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://edufordcollege.netlify.app/"
+    },
+    {
+      "id": "11",
+      "src": "./img/recipes.png",
+      "title": "EasytoMake",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://easytomake.netlify.app/"
+    },
+    {
+      "id": "12",
+      "src": "./img/cardekho.png",
+      "title": "CarDekho",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://cardekho.netlify.app/"
+    },
+    {
+      "id": "13",
+      "src": "./img/hotel.png",
+      "title": "BookYourRoom",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://bookyourroom.netlify.app/"
+    },
+    {
+      "id": "14",
+      "src": "./img/movieplusx.png",
+      "title": "MoviesPlusX",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://moviesplusx.netlify.app/"
+    },
+    {
+      "id": "15",
+      "src": "./img/tesla.png",
+      "title": "Tesla Clone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://tesla-clone-1.netlify.app/"
+    },
+    {
+      "id": "16",
+      "src": "./img/fithit.png",
+      "title": "FitHit",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://fithit.netlify.app/"
+    },
+    {
+      "id": "17",
+      "src": "./img/marvel.png",
+      "title": "MarvelSH",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://marvelsh.netlify.app/"
+    },
+    {
+      "id": "18",
+      "src": "./img/covide.png",
+      "title": "Covide-19",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://covide-19.netlify.app/"
     }
   ],
   "testimonial": [

@@ -172,8 +172,8 @@ function Footer() {
       </div>
       <hr className="divider" />
       <div className="footer--content--container">
-        <p className="footer--content">Made with 💖 by John</p>
-        <div className="footer--social--icon">
+        <p className="footer--content">Devloped By Rahul Tiwari © 2023</p>
+        {/* <div className="footer--social--icon">
           <ul>
             <li>
               <Link
@@ -215,7 +215,7 @@ function Footer() {
               </Link>
             </li>
           </ul>
-        </div>
+        </div> */}
       </div>
     </footer>
   );
