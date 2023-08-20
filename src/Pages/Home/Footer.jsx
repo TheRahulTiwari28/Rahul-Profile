@@ -30,10 +30,10 @@ function Footer() {
                 smooth={true}
                 offset={-70}
                 duration={500}
-                to="MyPortfolio"
+                to="AboutMe"
                 className="text-md"
               >
-                Portfolio
+                About Me
               </Link>
             </li>
             <li>
@@ -43,10 +43,23 @@ function Footer() {
                 smooth={true}
                 offset={-70}
                 duration={500}
-                to="AboutMe"
+                to="testimonial"
                 className="text-md"
               >
-                About Me
+                Skills
+              </Link>
+            </li>
+            <li>
+              <Link
+                activeClass="navbar--active-content"
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={500}
+                to="MyPortfolio"
+                className="text-md"
+              >
+                Portfolio
               </Link>
             </li>
             <li>
@@ -62,26 +75,13 @@ function Footer() {
                 Contact
               </Link>
             </li>
-            {/* <li>
-              <Link
-                activeClass="navbar--active-content"
-                spy={true}
-                smooth={true}
-                offset={-70}
-                duration={500}
-                to="testimonial"
-                className="text-md"
-              >
-                Testimonials
-              </Link>
-            </li> */}
           </ul>
         </div>
         <div className="footer--social--icon">
           <ul>
             <li>
               <a
-                href="https://www.facebook.com/"
+                href="https://www.facebook.com/profile.php?id=100043219863014"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -102,7 +102,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/rahul.tiwari_28/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -125,7 +125,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.twitter.com/"
+                href="https://twitter.com/RahulTiwari_28"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -146,7 +146,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/rahul-tiwari-6a90051b4/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
