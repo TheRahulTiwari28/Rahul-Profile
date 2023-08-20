@@ -286,8 +286,10 @@ h2 {
   border-radius: 10.6px;
   background: var(--bg-shade);
   min-height: 270px;
+  /* width: 100%; */
 }
 .skills--section--card:hover {
+  transition: 0.3s;
   border-bottom: 4px solid var(--primary);
 }
 .skills--section--card:hover .skills--section--description {
@@ -546,6 +548,9 @@ input[type="checkbox"] {
   align-items: center;
   align-self: stretch;
 }
+.footer--link--container > div img{
+  width: 150px;
+}
 .footer--items > ul {
   list-style: none;
   display: flex;
@@ -564,6 +569,7 @@ input[type="checkbox"] {
   gap: 16px;
   flex-shrink: 0;
   text-decoration: none;
+  cursor: pointer;
 }
 .divider {
   margin: 50px 0 ;
@@ -693,6 +699,7 @@ input[type="checkbox"] {
   .footer--items > ul {
     padding: 0;
     align-items: center;
+    cursor: pointer;
   }
   .divider {
     margin: 20px;
@@ -772,6 +779,9 @@ input[type="checkbox"] {
 
   .nav__hamburger.active :nth-child(3) {
     transform: rotate(-45deg) translate(0.45rem, -0.1875rem);
+  }
+  .hero--section--img::before{
+    height: 250px;
   }
 }
 
