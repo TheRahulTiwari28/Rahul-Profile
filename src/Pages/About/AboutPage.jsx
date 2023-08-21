@@ -46,7 +46,6 @@ const AboutPage = () => {
         </div>
         <div className='about-info-content'>
           <h2 className="section--heading">Experiance</h2>
-        
           <div className='about-section-container'>
             <div className='info-data'>
             {data?.experiance?.map((item, index) => (

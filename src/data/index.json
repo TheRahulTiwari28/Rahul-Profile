@@ -22,16 +22,17 @@
   "education": [
     {
       "id": "1",
-      "src": "./img/skills/hsc.svg",
-      "title": "HSC",
-      "date": "2018 - 2020"
-    },
-    {
-      "id": "2",
       "src": "./img/skills/Graduation.svg",
       "title": "Mumbai University",
       "date": "2020 - 2023"
+    },
+    {
+      "id": "2",
+      "src": "./img/skills/hsc.svg",
+      "title": "HSC",
+      "date": "2018 - 2020"
     }
+    
   ],
   "experiance": [
     {
