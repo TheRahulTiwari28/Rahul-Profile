@@ -1,6 +1,5 @@
 import AboutMe from "../AboutMe";
 import ContactMe from "../ContactMe";
-import Footer from "../Footer";
 import HeroSection from "../HeroSection";
 import MyPortfolio from "../MyPortfolio";
 import Expertise from "../Expertise";
@@ -16,7 +15,6 @@ export default function Home() {
       <Expertise />
       <MyPortfolio />
       <ContactMe />
-      <Footer />
     </>
   );
 }

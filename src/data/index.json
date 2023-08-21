@@ -19,6 +19,36 @@
       "description": "I'm a UI/UX designer who helps websites achieve a unique look by creating user interfaces and experiences that are both visually appealing and functional"
     }
   ],
+  "education": [
+    {
+      "id": "1",
+      "src": "./img/skills/hsc.svg",
+      "title": "HSC",
+      "date": "2018 - 2020"
+    },
+    {
+      "id": "2",
+      "src": "./img/skills/Graduation.svg",
+      "title": "Mumbai University",
+      "date": "2020 - 2023"
+    }
+  ],
+  "experiance": [
+    {
+      "id": "1",
+      "src": "./img/skills/company.png",
+      "title": "TunicaLabs Media Pvt Ltd.",
+      "role": "Software Developer",
+      "date": "May 2022 - Present"
+    },
+    {
+      "id": "2",
+      "src": "./img/skills/company.png",
+      "title": "LeadSchool",
+      "role": "Software Tester",
+      "date": "June 2021 - August 2022"
+    }
+  ],
   "languages": [
     {
       "id": "1",
