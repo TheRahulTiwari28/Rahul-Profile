@@ -1,16 +1,19 @@
+import React from 'react'
 import data from "../../data/index.json";
+import './Project.css'
 
-export default function MyPortfolio() {
+const Project = () => {
   return (
-    <section className="portfolio--section" id="MyPortfolio">
+    <>
+    <section className="project--section" id="MyPortfolio">
       <div className="portfolio--container-box">
         <div className="portfolio--container">
-          <h2 className="section--heading">My Portfolio</h2>
-          <p className="section--title">Recent Projects</p>
+            <p className="section--heading">PROJECTS</p>
+          <h2 className="section--title">Some Of My Recent Works</h2>
         </div>
         <div>
           <a className="btn btn-github" href="https://github.com/TheRahulTiwari28">
-            <svg  
+            <svg
               xmlns="http://www.w3.org/2000/svg"
               width="32"
               height="32"
@@ -29,7 +32,7 @@ export default function MyPortfolio() {
         </div>
       </div>
       <div className="portfolio--section--container">
-        {data?.topthree?.map((item, index) => (
+        {data?.portfolio?.map((item, index) => (
           <div key={index} className="portfolio--section--card">
             <div className="portfolio--section--img">
               <img src={item.src} alt="Placeholder" />
@@ -60,9 +63,9 @@ export default function MyPortfolio() {
           </div>
         ))}
       </div>
-      <div className="portfolio--button">
-        <a href='/project' className='button'>View All Project</a>
-      </div>
     </section>
-  );
+    </>
+  )
 }
+
+export default Project

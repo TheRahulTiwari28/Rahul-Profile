@@ -24,12 +24,14 @@
       "id": "1",
       "src": "./img/skills/Graduation.svg",
       "title": "Mumbai University",
+      "role": "Bsc.IT",
       "date": "2020 - 2023"
     },
     {
       "id": "2",
       "src": "./img/skills/hsc.svg",
-      "title": "HSC",
+      "title": "HSC",      
+      "role": "Science",
       "date": "2018 - 2020"
     }
     
@@ -44,7 +46,7 @@
     },
     {
       "id": "2",
-      "src": "./img/skills/company.png",
+      "src": "./img/skills/blackbag.png",
       "title": "LeadSchool",
       "role": "Software Tester",
       "date": "June 2021 - August 2022"
@@ -111,6 +113,29 @@
       "id": "3",
       "src": "./img/skills/ps.png",
       "title": "Photoshop"
+    }
+  ],
+  "topthree": [
+    {
+      "id": "1",
+      "src": "./img/languagehub.png",
+      "title": "LanguageLab",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://languagelab.netlify.app/"
+    },
+    {
+      "id": "2",
+      "src": "./img/futuretech.png",
+      "title": "Future Tech",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://the-future-tech.vercel.app/"
+    },
+    {
+      "id": "3",
+      "src": "./img/hotel.png",
+      "title": "BookYourRoom",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "https://bookyourroom.netlify.app/"
     }
   ],
   "portfolio": [

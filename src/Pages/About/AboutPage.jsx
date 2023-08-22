@@ -1,6 +1,7 @@
 import React from 'react'
 import data from "../../data/index.json";
 import './Aboutpage.css'
+import pdf from '../../assets/Rahultiwariresume.pdf';
 const AboutPage = () => {
   return (
     <>
@@ -17,7 +18,7 @@ const AboutPage = () => {
               </div>
             </div>
             <div className='button-wrapper'>
-              <a href='#' className='button'>DownLoad CV</a>
+              <a href={pdf} target="_blank" className='button'>DownLoad CV</a>
             </div>
           </div>
           <div className='about-page-rightside'>
@@ -36,7 +37,8 @@ const AboutPage = () => {
                   <img src={item.src} alt="Product Chain" />
                 </div>
                 <div className="info--section--card--content">
-                  <h3 className="info--section--edt">{item.title}</h3>
+                  <h3 className="info--section--edutitle">{item.title}</h3>
+                  <h4 className="info--section--education">{item.role}</h4>
                   <h4 className="info--section--date">{item.date}</h4>
                 </div>
               </div>

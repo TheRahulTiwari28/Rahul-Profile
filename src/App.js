@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar";
 import Home from "./Pages/Home/Homescreen";
 import About from "./Pages/About/AboutPage";
 import Footer from "./components/Footer";
-
+import Project from "./Pages/Project/Project";
 function App() {
   return (
     <div className="App">
@@ -14,6 +14,8 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />}></Route>
             <Route path="/about" element={<About />}></Route>
+            <Route path="/Project" element={<Project/>}></Route>
+            {/* <Route path="/contact" element={<About />}></Route> */}
             <Route path="*" element={<div>404 Not Found</div>}></Route>
           </Routes>
           <Footer/>
