@@ -4,3 +4,8 @@
 .project--section .portfolio--section--container{
     padding-top: 30px;
 }
+@media screen and (max-width: 768px) {
+    .project--section{
+        padding: 150px 20px 50px;
+    }
+}
