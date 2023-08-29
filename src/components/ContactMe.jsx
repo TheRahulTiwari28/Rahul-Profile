@@ -54,10 +54,10 @@ export default function ContactMe() {
         <label htmlFor="choode-topic" className="contact--label">
           <span className="text-md">Choose a topic</span>
           <input
-              type="number"
+              type="text"
               className="contact--input text-md"
-              name="phone-number"
-              id="phone-number"
+              name="last-name"
+              id="last-name"
               required
             />
           {/* <select id="choose-topic" className="contact--input text-md">
