@@ -1,5 +1,5 @@
 import AboutMe from "../AboutMe";
-import ContactMe from "../ContactMe";
+import ContactMe from "../../../components/ContactMe";
 import HeroSection from "../HeroSection";
 import MyPortfolio from "../MyPortfolio";
 import Expertise from "../Expertise";
