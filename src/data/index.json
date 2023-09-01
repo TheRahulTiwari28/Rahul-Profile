@@ -120,6 +120,7 @@
       "id": "1",
       "src": "./img/languagehub.png",
       "title": "LanguageLab",
+      "slug":"language-lab",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://languagelab.netlify.app/"
     },
@@ -127,6 +128,7 @@
       "id": "2",
       "src": "./img/futuretech.png",
       "title": "Future Tech",
+      "slug":"future-tech",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://the-future-tech.vercel.app/"
     },
@@ -134,6 +136,7 @@
       "id": "3",
       "src": "./img/hotel.png",
       "title": "BookYourRoom",
+      "slug":"book-your-room",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://bookyourroom.netlify.app/"
     }
@@ -142,6 +145,7 @@
     {
       "id": "1",
       "src": "./img/covide19.png",
+      "slug":"covide19-tracker",
       "title": "Covide19 Tracker",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://covide19-tracker.vercel.app/"
@@ -150,12 +154,14 @@
       "id": "2",
       "src": "./img/futuretech.png",
       "title": "Future Tech",
+      "slug":"future-tech",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://the-future-tech.vercel.app/"
     },
     {
       "id": "3",
       "src": "./img/acehaversack.png",
+      "slug":"ace-haver-sack",
       "title": "AceHaverS@ack",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://acehaversack.netlify.app/"
@@ -163,6 +169,7 @@
     {
       "id": "4",
       "src": "./img/sack.png",
+      "slug":"sack",
       "title": "Sack",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://sack.netlify.app/"
@@ -170,6 +177,7 @@
     {
       "id": "5",
       "src": "./img/codepen.png",
+      "slug": "codepen-clone",
       "title": "Codepen Clone",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://react-clone-codepen.netlify.app/"
@@ -177,6 +185,7 @@
     {
       "id": "6",
       "src": "./img/movieflix.png",
+      "slug": "movieflick",
       "title": "Movieflick",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://movieflick.netlify.app/"
@@ -184,6 +193,7 @@
     {
       "id": "7",
       "src": "./img/shardevision.png",
+      "slug": "shared-vision",
       "title": "SharedVision",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://sharedvision.netlify.app/"
@@ -191,6 +201,7 @@
     {
       "id": "8",
       "src": "./img/skillearn.png",
+      "slug": "skill-learn",
       "title": "Skill Learn",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://skill-learn.netlify.app/"
@@ -199,12 +210,14 @@
       "id": "9",
       "src": "./img/languagehub.png",
       "title": "LanguageLab",
+      "slug":"language-lab",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://languagelab.netlify.app/"
     },
     {
       "id": "10",
       "src": "./img/eduford.png",
+      "slug": "edu-ford-college",
       "title": "EduFordCollege",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://edufordcollege.netlify.app/"
@@ -212,6 +225,7 @@
     {
       "id": "11",
       "src": "./img/recipes.png",
+      "slug": "easytomake",
       "title": "EasytoMake",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://easytomake.netlify.app/"
@@ -219,6 +233,7 @@
     {
       "id": "12",
       "src": "./img/cardekho.png",
+      "slug": "car-dekho",
       "title": "CarDekho",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://cardekho.netlify.app/"
@@ -227,12 +242,14 @@
       "id": "13",
       "src": "./img/hotel.png",
       "title": "BookYourRoom",
+      "slug":"book-your-room",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://bookyourroom.netlify.app/"
     },
     {
       "id": "14",
       "src": "./img/movieplusx.png",
+      "slug": "movies-plusx",
       "title": "MoviesPlusX",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://moviesplusx.netlify.app/"
@@ -240,6 +257,7 @@
     {
       "id": "15",
       "src": "./img/tesla.png",
+      "slug": "tesla-clone",
       "title": "Tesla Clone",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://tesla-clone-1.netlify.app/"
@@ -247,6 +265,7 @@
     {
       "id": "16",
       "src": "./img/fithit.png",
+      "slug": "fit-hit",
       "title": "FitHit",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://fithit.netlify.app/"
@@ -254,6 +273,7 @@
     {
       "id": "17",
       "src": "./img/marvel.png",
+      "slug": "marvel-sh",
       "title": "MarvelSH",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://marvelsh.netlify.app/"
@@ -261,6 +281,7 @@
     {
       "id": "18",
       "src": "./img/covide.png",
+      "slug": "covide19",
       "title": "Covide-19",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://covide-19.netlify.app/"
