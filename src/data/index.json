@@ -30,11 +30,10 @@
     {
       "id": "2",
       "src": "./img/skills/hsc.svg",
-      "title": "HSC",      
+      "title": "HSC",
       "role": "Science",
       "date": "2018 - 2020"
     }
-    
   ],
   "experiance": [
     {
@@ -120,7 +119,7 @@
       "id": "1",
       "src": "./img/languagehub.png",
       "title": "LanguageLab",
-      "slug":"language-lab",
+      "slug": "language-lab",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://languagelab.netlify.app/"
     },
@@ -128,7 +127,7 @@
       "id": "2",
       "src": "./img/futuretech.png",
       "title": "Future Tech",
-      "slug":"future-tech",
+      "slug": "future-tech",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://the-future-tech.vercel.app/"
     },
@@ -136,7 +135,7 @@
       "id": "3",
       "src": "./img/hotel.png",
       "title": "BookYourRoom",
-      "slug":"book-your-room",
+      "slug": "book-your-room",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://bookyourroom.netlify.app/"
     }
@@ -145,7 +144,7 @@
     {
       "id": "1",
       "src": "./img/covide19.png",
-      "slug":"covide19-tracker",
+      "slug": "covide19-tracker",
       "title": "Covide19 Tracker",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://covide19-tracker.vercel.app/"
@@ -154,14 +153,14 @@
       "id": "2",
       "src": "./img/futuretech.png",
       "title": "Future Tech",
-      "slug":"future-tech",
+      "slug": "future-tech",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://the-future-tech.vercel.app/"
     },
     {
       "id": "3",
       "src": "./img/acehaversack.png",
-      "slug":"ace-haver-sack",
+      "slug": "ace-haver-sack",
       "title": "AceHaverS@ack",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://acehaversack.netlify.app/"
@@ -169,7 +168,7 @@
     {
       "id": "4",
       "src": "./img/sack.png",
-      "slug":"sack",
+      "slug": "sack",
       "title": "Sack",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://sack.netlify.app/"
@@ -210,7 +209,7 @@
       "id": "9",
       "src": "./img/languagehub.png",
       "title": "LanguageLab",
-      "slug":"language-lab",
+      "slug": "language-lab",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://languagelab.netlify.app/"
     },
@@ -242,7 +241,7 @@
       "id": "13",
       "src": "./img/hotel.png",
       "title": "BookYourRoom",
-      "slug":"book-your-room",
+      "slug": "book-your-room",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "https://bookyourroom.netlify.app/"
     },
