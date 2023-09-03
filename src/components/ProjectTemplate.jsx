@@ -7,7 +7,7 @@ import Ace from '../assets/acehaversack.png'
 export default function ProjectTemplate() {
   const { slug } = useParams();
   const blogData = data.portfolio.filter((item) => item.slug === slug);
-  console.log(blogData);
+  console.log(blogData[0].src);
   return (
     <>
     <section className="projecttemplate--section">
@@ -15,7 +15,7 @@ export default function ProjectTemplate() {
           <div className="projecttemplate--container">
           <div className="projecttemplate--img">
             {/* {blogData[0].src} */}
-            <img src={Ace}/>
+            <img src={`/${blogData[0].src.split("./")[1]}`} alt="images"/>
           </div>
           <h2 className="projecttemplate--heading">{blogData[0].title}</h2> 
           <div className="projecttemplate--button">
@@ -37,7 +37,7 @@ export default function ProjectTemplate() {
                 </svg>
                 View Demo
               </a>
-            <a href="" target="_blank">
+            <a href={blogData[0].github} target="_blank">
               <svg 
                 xmlns="http://www.w3.org/2000/svg" 
                 width="20" 
