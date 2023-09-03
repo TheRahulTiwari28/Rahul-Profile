@@ -2,7 +2,6 @@ import React from "react";
 import { useParams } from "react-router-dom";
 import data from "../data/index.json";
 import './projectTemplate.css'
-import Ace from '../assets/acehaversack.png'
 
 export default function ProjectTemplate() {
   const { slug } = useParams();
@@ -14,7 +13,6 @@ export default function ProjectTemplate() {
     {blogData.length ? (
           <div className="projecttemplate--container">
           <div className="projecttemplate--img">
-            {/* {blogData[0].src} */}
             <img src={`/${blogData[0].src.split("./")[1]}`} alt="images"/>
           </div>
           <h2 className="projecttemplate--heading">{blogData[0].title}</h2> 
